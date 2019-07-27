@@ -18,7 +18,7 @@ implementation 'pub.devrel:easypermissions:2.0.0'
 ```java
 //参数为请求权限的code
     @AfterPermissionGranted(1)
-    private void methodRequiresTwoPermission() {
+    private void methodRequiresPermission() {
         if (EasyPermissions.hasPermissions(this, Manifest.permission.CAMERA)) {
             // Already have permission, do the thing
             // ...
