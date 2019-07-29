@@ -1,5 +1,5 @@
 # AndPermission申请摄像头权限
-这里使用[EasyPermissions](https://github.com/googlesamples/easypermissions)，进行**摄像头权限**的申请
+这里使用[EasyPermissions GITHUB](https://github.com/googlesamples/easypermissions)，进行**摄像头权限**的申请
 
 ## 第一步
 在**AndroidManifest**中填写你要申请的权限

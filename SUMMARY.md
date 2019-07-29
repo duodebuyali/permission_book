@@ -8,4 +8,4 @@
 * [PermissionsDispatcher申请权限的用法事例](api/tools/PermissionsDispatcher.md)
 * [框架的对比和选择](api/Compare.md)
 * [框架的进一步封装](api/permission/PermissionTools.md)
-
+    - [权限申请时的状态描述](api/permission/PermissionState.md)

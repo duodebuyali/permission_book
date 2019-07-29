@@ -1,5 +1,5 @@
 # Android原生申请摄像头权限
-这里使用Android原生[api](http://androidxref.com/6.0.0_r1/xref/developers/build/prebuilts/gradle/RuntimePermissions/)，进行**摄像头权限**的申请
+这里使用Android原生[api 源码](http://androidxref.com/6.0.0_r1/xref/developers/build/prebuilts/gradle/RuntimePermissions/)，进行**摄像头权限**的申请
 
 ## 第一步
 在**AndroidManifest**中填写你要申请的权限

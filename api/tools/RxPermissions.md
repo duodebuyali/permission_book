@@ -1,5 +1,5 @@
 # RxPermissions申请摄像头权限
-这里使用[RxPermissions](https://github.com/tbruyelle/RxPermissions)，进行**摄像头权限**的申请
+这里使用[RxPermissions GITHUB](https://github.com/tbruyelle/RxPermissions)，进行**摄像头权限**的申请
 
 ## 第一步
 在**AndroidManifest**中填写你要申请的权限
